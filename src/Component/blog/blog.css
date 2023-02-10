@@ -1,0 +1,11 @@
+.blog-item span{
+    color: #898989;
+    display: inline-block;
+    padding: 10px 0;
+}
+.blog-item{
+    padding: 20px;
+}
+.blog-page{
+    background-color: whitesmoke;
+}

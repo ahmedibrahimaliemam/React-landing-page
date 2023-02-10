@@ -1,0 +1,20 @@
+button{
+    width: 140px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #fe3b3b;
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+}
+ul li{
+    padding: 10px;
+}
+
+.logo{
+    font-weight: 800;
+}
+li a{
+    color: #e8e8e8;
+}
