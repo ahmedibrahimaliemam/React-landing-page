@@ -4,7 +4,7 @@ import image from "../../assets/online-world.svg" ;
 function Services(){
     return(
         <>
-        <div className="services">
+        <div className="services" id="serve">
         
         <h3>Our Services</h3>
         <span className="line"></span>
@@ -46,7 +46,7 @@ function Services(){
 </div>
 
 </div>
-<div className="section-2 pt-5 pb-5">
+<div className="section-2 pt-5 pb-5" id="features">
 <div className="container">
 <div className="row gap-5">
     <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12"><h2>A digital web design studio creating modern & engaging online experiences</h2>

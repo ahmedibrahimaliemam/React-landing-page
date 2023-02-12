@@ -15,22 +15,22 @@ function Navbar(){
           <a className="nav-link active text-light" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#">Services</a>
+          <a className="nav-link text-light" href="#serve">Services</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#" >Features</a>
+          <a className="nav-link text-light" href="#features" >Features</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#" >Pricing</a>
+          <a className="nav-link text-light" href="#pricing" >Pricing</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#" >Team</a>
+          <a className="nav-link text-light" href="#team" >Team</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#" >Blog</a>
+          <a className="nav-link text-light" href="#blog" >Blog</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="#" >Contact</a>
+          <a className="nav-link text-light" href="#contact" >Contact</a>
         </li>
       </ul>
       <button style={{borderRadius:"50px",textTransform:"uppercase"}}>Try it free</button>

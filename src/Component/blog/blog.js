@@ -6,7 +6,7 @@ import blog3 from "../../assets/blog3.webp" ;
 function Blog(){
     return(
         <>
-        <div className="blog-page">
+        <div className="blog-page" id="blog">
             <div className="team">
      <h3>Blog</h3>
     <span className="line"></span>

@@ -7,7 +7,7 @@ import image4 from "../../assets/image4.jpg"  ;
 function Team(){
     return(
         <>
-    <div className="team">
+    <div className="team" id="team">
      <h3>Behind the people</h3>
     <span className="line"></span>
     <p style={{width:"100%"}}>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
